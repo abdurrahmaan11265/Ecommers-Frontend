@@ -11,6 +11,7 @@ import { services } from '../utils/Data.js';
 function Home() {
   return (
     <>
+      {/* this is home */}
       <Meta title='E Commers App' />
       <Container class1='home-wrapper-1 py-5'>
         <div className="row">
